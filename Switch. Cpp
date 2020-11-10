@@ -1,0 +1,57 @@
+
+
+person
+My Profile
+exit_to_app
+Logout
+Report Bug
+Theme 
+C++
+ Copy Reset Shortcuts
+
+    int n,age;
+
+
+1234567891011121314151617181920212223242526
+#include <iostream>using namespace std; int main() {    int n,age;    switch(n)    {        case 1:        cout<<"enter age";        cin>>age;               if(age>=18)        cout<<"eligible for vote";        case 2:        if(age<18)        cout<<"not eligble";       default:       cout<<"uinr are good ";    }             return 0;}
+
+0
+Copy
+ Run  Run+URL (Generates URL as well)
+CC++C++14C#JavaPerlPHPPythonPython 3Scala
+
+Generated URL:Copy
+https://ide.geeksforgeeks.org/c7OVhfayeE
+Output: Copy
+
+
+
+
+
+room
+5th Floor, A-118,
+Sector-136, Noida, Uttar Pradesh - 201305
+email
+feedback@geeksforgeeks.org
+Company
+About Us
+Careers
+Privacy Policy
+Contact Us
+Learn
+Algorithms
+Data Structures
+Languages
+CS Subjects
+Video Tutorials
+Practice
+Courses
+Company-wise
+Topic-wise
+How to begin?
+Contribute
+Write an Article
+Write Interview Experience
+Internships
+Videos
+@geeksforgeeks , Some rights reserved
